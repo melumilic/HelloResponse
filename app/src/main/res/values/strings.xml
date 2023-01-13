@@ -3,4 +3,6 @@
     <string name="jack_intro">Hello World! My name is Jack and I like Android development and drinking matcha</string>
     <string name="button_text">Say Hello!</string>
     <string name="matcha_content_description">Matcha latte on a table next to phone and laptop</string>
+    <string name="toast_hello">Hello to you too!</string>
+
 </resources>
